@@ -1,4 +1,3 @@
-> http://localhost:8080/acarrion/index.html
 # Hola, mi nombre es Adrian Carrion
 ```
 Soy de Ecuador y mi objetivo, es convertirme en programador web Fullstack.
