@@ -1,6 +1,6 @@
 # Hola, mi nombre es Adrian Carrion
 ```
-Soy de Ecuador y mi objetivo, es convertirme en programador web Fullstack.
+Soy de Ecuador, y mi objetivo, es convertirme en programador web Fullstack.
 ```
 #### ⚡Datos de contacto 
 - Email: adriancarrion2020@gmail.com
